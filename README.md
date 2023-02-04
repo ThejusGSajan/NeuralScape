@@ -1,4 +1,5 @@
 # NeuralScape
+[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=FD768B)](https://github.com/ThejusGSajan/NeuralScape/blob/main/LICENSE)
 
 ![NeuralScape working](samples/sample.png "NeuralScape working")
 
